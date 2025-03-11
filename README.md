@@ -26,6 +26,9 @@ In image segmentation, each pixel of an image is labeled, enabling the separatio
 
 - **Visualization:**  
   Helper functions display input images, ground-truth labels, and model predictions side-by-side.
+![Screenshot 2025-03-11 203054](https://github.com/user-attachments/assets/4336791b-fe2e-4e00-8f98-646405f6fba6)
+
+  
 
 - **TensorBoard Integration:**  
   Logs training metrics to TensorBoard for real-time monitoring.
@@ -46,8 +49,8 @@ See the `requirements.txt` file for a complete list of dependencies.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
+    git clone https://github.com/InfiniteLoopster-coder/Image-Segmentation.git
+    cd Image-Segmentation
     ```
 
 2. **Install dependencies:**
@@ -94,3 +97,4 @@ To monitor training progress, launch TensorBoard by running:
 
 ```bash
 tensorboard --logdir logs
+-**
