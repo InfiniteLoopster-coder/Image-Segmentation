@@ -28,7 +28,8 @@ In image segmentation, each pixel of an image is labeled, enabling the separatio
   Helper functions display input images, ground-truth labels, and model predictions side-by-side.
 ![Screenshot 2025-03-11 203054](https://github.com/user-attachments/assets/4336791b-fe2e-4e00-8f98-646405f6fba6)
 
-  
+![Screenshot 2025-03-11 203821](https://github.com/user-attachments/assets/22f6495e-8bff-4b1e-89bc-ab0f53a01019)
+
 
 - **TensorBoard Integration:**  
   Logs training metrics to TensorBoard for real-time monitoring.
